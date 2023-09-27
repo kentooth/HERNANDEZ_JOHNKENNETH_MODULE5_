@@ -1,0 +1,40 @@
+*{padding: 0px; margin: 0px;}
+.navbar{border: 2px solid black;
+     padding: 5px; 
+     width: 85vw;
+     text-align: center;
+     background-color: rgb(202, 248, 171);
+
+    }.links{
+        display: inline;
+    }
+    .links a{
+        text-decoration: none;
+        font-family: 'Rock Salt', cursive;
+        font-size: large;
+        padding-left: 2px;
+        padding-right: 2px;
+        border: 2px solid black;
+        opacity: .9;
+        transition: .7s;
+    }
+    .links a:hover{
+        opacity: 1;
+        transition: .4s;
+        font-size: 25px;
+    }.rounded{
+        border-radius: 10px;
+    }
+    .mobile{background-color: rgb(174, 207, 236);
+    border-radius: 10px;
+color: rgb(0, 0, 0);}
+    .tongitsgo{background-color: rgb(142, 40, 236);
+        border: 10px;
+        color: black;
+        border-radius:30px;
+    }
+    .rubygame{background-color: rgb(169, 235, 213);border: 10px;
+        color: black;}
+    .tongits{background-color: rgb(241, 241, 148);border: 10px;
+        color: black;
+    border-radius: 30px;}
